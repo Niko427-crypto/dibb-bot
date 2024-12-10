@@ -1,1 +1,0 @@
-This is about scrapping against dibb.
